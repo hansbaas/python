@@ -1,0 +1,13 @@
+Assembling a new pc
+
+It seems so easy and straight forward: get a case, power supply, a motherboard, a cpu and some ram and you're ready to rock 'n' roll. Well, it is and it isn't: if you know what you're doing when you mount and connect stuff and if are handy and confident, you should be able to pull it off and save yourself a fair bit of money.
+
+The key to success is compatibility. If the components you get are able to work together, your system should work.
+
+So where to start? In this article I will describe the situation that someone's pc 'died' and was asking me for my opinion. She didn't particularly fancy spending four, five hundred euro on a new pc, so after doing several tests on various components and reducing the failure to either motherboard or cpu I proposed to replace some parts and, spending 130 euro, creating a reasonably up-to-date computer for her to work with.
+
+Already having the case meant I had to pick a motherboard that met the size requirements from the case, a micro-ATX. I started studying the available boards and their characteristics and found that the next inportant feature after the form factor is the socket type for the processor. So I started looking for a cheap yet reliable cpu, choose a socket type and looked for motherboards that would take the processor. I used <a href="http://pcpartpicker.com/">PC part picker</a> for reference, advice and compatibility checks.
+
+AMD FM2 Athlon II X2 340 cpu 
+Asus A88XM-E Micro ATX FM2+ Motherboard
+HyperX Fury RAM DIMM 4 GB 1866 MHz DDR3

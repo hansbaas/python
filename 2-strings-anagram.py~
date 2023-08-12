@@ -1,0 +1,10 @@
+# Find the minimum number of characters we need to delete from two strings in order to get anagrams
+
+a = raw_input("Enter first string: ")
+b = raw_input("Enter first string: ")
+
+a1 = list(a)
+b1 = list(b)
+
+
+print "There were", count, "lines in the file with From as the first word"
